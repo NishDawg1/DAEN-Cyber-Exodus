@@ -1,5 +1,5 @@
 # Cyber Exodus
-This is a repo containing code/data for the Cyber Exodus' team for course DAEN690
+This is a repository containing the code and data for the Cyber Exodus' team for the DAEN 690 Capstone course.
 
 # Problem Description:
   
