@@ -30,7 +30,7 @@ sal%>%
             max = max(salary))
 
 
-# Work environment and Experience
+# Experience
 ggplot(sal, aes(x = experience_level)) + 
   geom_text(stat='count', aes(label=..count..), vjust= -.3) +
   theme(text = element_text(size = 15)) +
