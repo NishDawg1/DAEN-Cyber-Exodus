@@ -1,0 +1,639 @@
+Location,County,Crime_cat,Offense,State,Num_crime
+Alexandria City,Alexandria City,C_person,Murder and Nonnegligent Manslaughter,VA,2
+Alexandria City,Alexandria City,C_person,Negligent Manslaughter,VA,0
+Alexandria City,Alexandria City,C_person,Justifiable Homicide,VA,0
+Alexandria City,Alexandria City,C_person,Kidnapping/Abduction,VA,39
+Alexandria City,Alexandria City,C_person,Forcible Rape,VA,8
+Alexandria City,Alexandria City,C_person,Forcible Sodomy,VA,2
+Alexandria City,Alexandria City,C_person,Sexual Assault With An Object,VA,4
+Alexandria City,Alexandria City,C_person,Forcible Fondling,VA,8
+Alexandria City,Alexandria City,C_person,Incest,VA,0
+Alexandria City,Alexandria City,C_person,Statutory Rape,VA,0
+Alexandria City,Alexandria City,C_person,Aggravated Assault,VA,237
+Alexandria City,Alexandria City,C_person,Simple Assault,VA,"1,417"
+Alexandria City,Alexandria City,C_person,Intimidation,VA,294
+Alexandria City,Alexandria City,C_person,"Human Trafficking, Commercial Sex Acts",VA,0
+Alexandria City,Alexandria City,C_person,"Human Trafficking, Involuntary Servitude",VA,0
+Alexandria City,Alexandria City,C_prop,Arson,VA,4
+Alexandria City,Alexandria City,C_prop,Bribery,VA,4
+Alexandria City,Alexandria City,C_prop,Burglary/Breaking & Entering,VA,160
+Alexandria City,Alexandria City,C_prop,Counterfeiting/Forgery,VA,69
+Alexandria City,Alexandria City,C_prop,Destruction/Vandalism of Property,VA,"1,342"
+Alexandria City,Alexandria City,C_prop,Embezzlement,VA,29
+Alexandria City,Alexandria City,C_prop,Extortion/Blackmail,VA,9
+Alexandria City,Alexandria City,C_prop,False Pretenses/Swindle/Confidence Game,VA,272
+Alexandria City,Alexandria City,C_prop,Credit Card/Automatic Teller Fraud,VA,176
+Alexandria City,Alexandria City,C_prop,Impersonation,VA,4
+Alexandria City,Alexandria City,C_prop,Welfare Fraud,VA,1
+Alexandria City,Alexandria City,C_prop,Wire Fraud,VA,13
+Alexandria City,Alexandria City,C_prop,Identity Theft,VA,246
+Alexandria City,Alexandria City,C_prop,Hacking/Computer Invasion,VA,12
+Alexandria City,Alexandria City,C_prop,Robbery,VA,104
+Alexandria City,Alexandria City,C_prop,Pocket-picking,VA,13
+Alexandria City,Alexandria City,C_prop,Purse-snatching,VA,9
+Alexandria City,Alexandria City,C_prop,Shoplifting,VA,572
+Alexandria City,Alexandria City,C_prop,Theft From Building,VA,394
+Alexandria City,Alexandria City,C_prop,Theft From Coin Operated Machine or Device,VA,1
+Alexandria City,Alexandria City,C_prop,Theft From Motor Vehicle,VA,470
+Alexandria City,Alexandria City,C_prop,Theft of Motor Vehicle Parts/Accessories,VA,406
+Alexandria City,Alexandria City,C_prop,All Other Larceny,VA,706
+Alexandria City,Alexandria City,C_prop,Motor Vehicle Theft,VA,339
+Alexandria City,Alexandria City,C_prop,Stolen Property Offenses,VA,119
+Alexandria City,Alexandria City,C_society,Drug/Narcotic Violations,VA,232
+Alexandria City,Alexandria City,C_society,Drug Equipment Violations,VA,32
+Alexandria City,Alexandria City,C_society,Betting/Wagering,VA,0
+Alexandria City,Alexandria City,C_society,Operating/Promoting/Assisting Gambling,VA,0
+Alexandria City,Alexandria City,C_society,Gambling Equipment Violations,VA,0
+Alexandria City,Alexandria City,C_society,Pornography/Obscene Material,VA,0
+Alexandria City,Alexandria City,C_society,Prostitution,VA,0
+Alexandria City,Alexandria City,C_society,Assisting or Promoting Prostitution,VA,0
+Alexandria City,Alexandria City,C_society,Purchasing Prostitution,VA,0
+Alexandria City,Alexandria City,C_society,Weapon Law Violations,VA,117
+Alexandria City,Alexandria City,C_society,Animal Cruelty,VA,1
+Arlington County,Arlington County,C_person,Murder and Nonnegligent Manslaughter,VA,0
+Arlington County,Arlington County,C_person,Negligent Manslaughter,VA,0
+Arlington County,Arlington County,C_person,Justifiable Homicide,VA,0
+Arlington County,Arlington County,C_person,Kidnapping/Abduction,VA,48
+Arlington County,Arlington County,C_person,Forcible Rape,VA,41
+Arlington County,Arlington County,C_person,Forcible Sodomy,VA,12
+Arlington County,Arlington County,C_person,Sexual Assault With An Object,VA,10
+Arlington County,Arlington County,C_person,Forcible Fondling,VA,77
+Arlington County,Arlington County,C_person,Incest,VA,0
+Arlington County,Arlington County,C_person,Statutory Rape,VA,3
+Arlington County,Arlington County,C_person,Aggravated Assault,VA,265
+Arlington County,Arlington County,C_person,Simple Assault,VA,"1,151"
+Arlington County,Arlington County,C_person,Intimidation,VA,83
+Arlington County,Arlington County,C_person,"Human Trafficking, Commercial Sex Acts",VA,1
+Arlington County,Arlington County,C_person,"Human Trafficking, Involuntary Servitude",VA,0
+Arlington County,Arlington County,C_prop,Arson,VA,4
+Arlington County,Arlington County,C_prop,Bribery,VA,54
+Arlington County,Arlington County,C_prop,Burglary/Breaking & Entering,VA,176
+Arlington County,Arlington County,C_prop,Counterfeiting/Forgery,VA,114
+Arlington County,Arlington County,C_prop,Destruction/Vandalism of Property,VA,"1,074"
+Arlington County,Arlington County,C_prop,Embezzlement,VA,31
+Arlington County,Arlington County,C_prop,Extortion/Blackmail,VA,72
+Arlington County,Arlington County,C_prop,False Pretenses/Swindle/Confidence Game,VA,823
+Arlington County,Arlington County,C_prop,Credit Card/Automatic Teller Fraud,VA,288
+Arlington County,Arlington County,C_prop,Impersonation,VA,109
+Arlington County,Arlington County,C_prop,Welfare Fraud,VA,1
+Arlington County,Arlington County,C_prop,Wire Fraud,VA,1
+Arlington County,Arlington County,C_prop,Identity Theft,VA,450
+Arlington County,Arlington County,C_prop,Hacking/Computer Invasion,VA,2
+Arlington County,Arlington County,C_prop,Robbery,VA,167
+Arlington County,Arlington County,C_prop,Pocket-picking,VA,61
+Arlington County,Arlington County,C_prop,Purse-snatching,VA,39
+Arlington County,Arlington County,C_prop,Shoplifting,VA,762
+Arlington County,Arlington County,C_prop,Theft From Building,VA,528
+Arlington County,Arlington County,C_prop,Theft From Coin Operated Machine or Device,VA,4
+Arlington County,Arlington County,C_prop,Theft From Motor Vehicle,VA,590
+Arlington County,Arlington County,C_prop,Theft of Motor Vehicle Parts/Accessories,VA,398
+Arlington County,Arlington County,C_prop,All Other Larceny,VA,"1,209"
+Arlington County,Arlington County,C_prop,Motor Vehicle Theft,VA,413
+Arlington County,Arlington County,C_prop,Stolen Property Offenses,VA,92
+Arlington County,Arlington County,C_society,Drug/Narcotic Violations,VA,385
+Arlington County,Arlington County,C_society,Drug Equipment Violations,VA,25
+Arlington County,Arlington County,C_society,Betting/Wagering,VA,0
+Arlington County,Arlington County,C_society,Operating/Promoting/Assisting Gambling,VA,0
+Arlington County,Arlington County,C_society,Gambling Equipment Violations,VA,0
+Arlington County,Arlington County,C_society,Pornography/Obscene Material,VA,40
+Arlington County,Arlington County,C_society,Prostitution,VA,1
+Arlington County,Arlington County,C_society,Assisting or Promoting Prostitution,VA,6
+Arlington County,Arlington County,C_society,Purchasing Prostitution,VA,3
+Arlington County,Arlington County,C_society,Weapon Law Violations,VA,130
+Arlington County,Arlington County,C_society,Animal Cruelty,VA,3
+Fairfax City,Fairfax City,C_person,Murder and Nonnegligent Manslaughter,VA,0
+Fairfax City,Fairfax City,C_person,Negligent Manslaughter,VA,0
+Fairfax City,Fairfax City,C_person,Justifiable Homicide,VA,0
+Fairfax City,Fairfax City,C_person,Kidnapping/Abduction,VA,6
+Fairfax City,Fairfax City,C_person,Forcible Rape,VA,7
+Fairfax City,Fairfax City,C_person,Forcible Sodomy,VA,0
+Fairfax City,Fairfax City,C_person,Sexual Assault With An Object,VA,0
+Fairfax City,Fairfax City,C_person,Forcible Fondling,VA,8
+Fairfax City,Fairfax City,C_person,Incest,VA,0
+Fairfax City,Fairfax City,C_person,Statutory Rape,VA,1
+Fairfax City,Fairfax City,C_person,Aggravated Assault,VA,6
+Fairfax City,Fairfax City,C_person,Simple Assault,VA,149
+Fairfax City,Fairfax City,C_person,Intimidation,VA,16
+Fairfax City,Fairfax City,C_person,"Human Trafficking, Commercial Sex Acts",VA,0
+Fairfax City,Fairfax City,C_person,"Human Trafficking, Involuntary Servitude",VA,0
+Fairfax City,Fairfax City,C_prop,Arson,VA,2
+Fairfax City,Fairfax City,C_prop,Bribery,VA,0
+Fairfax City,Fairfax City,C_prop,Burglary/Breaking & Entering,VA,17
+Fairfax City,Fairfax City,C_prop,Counterfeiting/Forgery,VA,45
+Fairfax City,Fairfax City,C_prop,Destruction/Vandalism of Property,VA,169
+Fairfax City,Fairfax City,C_prop,Embezzlement,VA,13
+Fairfax City,Fairfax City,C_prop,Extortion/Blackmail,VA,5
+Fairfax City,Fairfax City,C_prop,False Pretenses/Swindle/Confidence Game,VA,70
+Fairfax City,Fairfax City,C_prop,Credit Card/Automatic Teller Fraud,VA,27
+Fairfax City,Fairfax City,C_prop,Impersonation,VA,8
+Fairfax City,Fairfax City,C_prop,Welfare Fraud,VA,0
+Fairfax City,Fairfax City,C_prop,Wire Fraud,VA,1
+Fairfax City,Fairfax City,C_prop,Identity Theft,VA,22
+Fairfax City,Fairfax City,C_prop,Hacking/Computer Invasion,VA,1
+Fairfax City,Fairfax City,C_prop,Robbery,VA,12
+Fairfax City,Fairfax City,C_prop,Pocket-picking,VA,10
+Fairfax City,Fairfax City,C_prop,Purse-snatching,VA,1
+Fairfax City,Fairfax City,C_prop,Shoplifting,VA,177
+Fairfax City,Fairfax City,C_prop,Theft From Building,VA,99
+Fairfax City,Fairfax City,C_prop,Theft From Coin Operated Machine or Device,VA,0
+Fairfax City,Fairfax City,C_prop,Theft From Motor Vehicle,VA,86
+Fairfax City,Fairfax City,C_prop,Theft of Motor Vehicle Parts/Accessories,VA,8
+Fairfax City,Fairfax City,C_prop,All Other Larceny,VA,127
+Fairfax City,Fairfax City,C_prop,Motor Vehicle Theft,VA,42
+Fairfax City,Fairfax City,C_prop,Stolen Property Offenses,VA,1
+Fairfax City,Fairfax City,C_society,Drug/Narcotic Violations,VA,15
+Fairfax City,Fairfax City,C_society,Drug Equipment Violations,VA,1
+Fairfax City,Fairfax City,C_society,Betting/Wagering,VA,0
+Fairfax City,Fairfax City,C_society,Operating/Promoting/Assisting Gambling,VA,0
+Fairfax City,Fairfax City,C_society,Gambling Equipment Violations,VA,0
+Fairfax City,Fairfax City,C_society,Pornography/Obscene Material,VA,15
+Fairfax City,Fairfax City,C_society,Prostitution,VA,0
+Fairfax City,Fairfax City,C_society,Assisting or Promoting Prostitution,VA,0
+Fairfax City,Fairfax City,C_society,Purchasing Prostitution,VA,0
+Fairfax City,Fairfax City,C_society,Weapon Law Violations,VA,12
+Fairfax City,Fairfax City,C_society,Animal Cruelty,VA,1
+Fairfax County,Fairfax County,C_person,Murder and Nonnegligent Manslaughter,VA,30
+Fairfax County,Fairfax County,C_person,Negligent Manslaughter,VA,0
+Fairfax County,Fairfax County,C_person,Justifiable Homicide,VA,0
+Fairfax County,Fairfax County,C_person,Kidnapping/Abduction,VA,129
+Fairfax County,Fairfax County,C_person,Forcible Rape,VA,128
+Fairfax County,Fairfax County,C_person,Forcible Sodomy,VA,45
+Fairfax County,Fairfax County,C_person,Sexual Assault With An Object,VA,40
+Fairfax County,Fairfax County,C_person,Forcible Fondling,VA,168
+Fairfax County,Fairfax County,C_person,Incest,VA,3
+Fairfax County,Fairfax County,C_person,Statutory Rape,VA,2
+Fairfax County,Fairfax County,C_person,Aggravated Assault,VA,492
+Fairfax County,Fairfax County,C_person,Simple Assault,VA,"7,014"
+Fairfax County,Fairfax County,C_person,Intimidation,VA,920
+Fairfax County,Fairfax County,C_person,"Human Trafficking, Commercial Sex Acts",VA,3
+Fairfax County,Fairfax County,C_person,"Human Trafficking, Involuntary Servitude",VA,0
+Fairfax County,Fairfax County,C_prop,Arson,VA,13
+Fairfax County,Fairfax County,C_prop,Bribery,VA,0
+Fairfax County,Fairfax County,C_prop,Burglary/Breaking & Entering,VA,700
+Fairfax County,Fairfax County,C_prop,Counterfeiting/Forgery,VA,396
+Fairfax County,Fairfax County,C_prop,Destruction/Vandalism of Property,VA,"5,049"
+Fairfax County,Fairfax County,C_prop,Embezzlement,VA,120
+Fairfax County,Fairfax County,C_prop,Extortion/Blackmail,VA,185
+Fairfax County,Fairfax County,C_prop,False Pretenses/Swindle/Confidence Game,VA,"1,533"
+Fairfax County,Fairfax County,C_prop,Credit Card/Automatic Teller Fraud,VA,767
+Fairfax County,Fairfax County,C_prop,Impersonation,VA,"1,901"
+Fairfax County,Fairfax County,C_prop,Welfare Fraud,VA,3
+Fairfax County,Fairfax County,C_prop,Wire Fraud,VA,71
+Fairfax County,Fairfax County,C_prop,Identity Theft,VA,19
+Fairfax County,Fairfax County,C_prop,Hacking/Computer Invasion,VA,2
+Fairfax County,Fairfax County,C_prop,Robbery,VA,468
+Fairfax County,Fairfax County,C_prop,Pocket-picking,VA,55
+Fairfax County,Fairfax County,C_prop,Purse-snatching,VA,56
+Fairfax County,Fairfax County,C_prop,Shoplifting,VA,"5,893"
+Fairfax County,Fairfax County,C_prop,Theft From Building,VA,980
+Fairfax County,Fairfax County,C_prop,Theft From Coin Operated Machine or Device,VA,5
+Fairfax County,Fairfax County,C_prop,Theft From Motor Vehicle,VA,"3,277"
+Fairfax County,Fairfax County,C_prop,Theft of Motor Vehicle Parts/Accessories,VA,"1,551"
+Fairfax County,Fairfax County,C_prop,All Other Larceny,VA,"3,832"
+Fairfax County,Fairfax County,C_prop,Motor Vehicle Theft,VA,"1,438"
+Fairfax County,Fairfax County,C_prop,Stolen Property Offenses,VA,71
+Fairfax County,Fairfax County,C_society,Drug/Narcotic Violations,VA,"1,855"
+Fairfax County,Fairfax County,C_society,Drug Equipment Violations,VA,172
+Fairfax County,Fairfax County,C_society,Betting/Wagering,VA,2
+Fairfax County,Fairfax County,C_society,Operating/Promoting/Assisting Gambling,VA,0
+Fairfax County,Fairfax County,C_society,Gambling Equipment Violations,VA,0
+Fairfax County,Fairfax County,C_society,Pornography/Obscene Material,VA,278
+Fairfax County,Fairfax County,C_society,Prostitution,VA,16
+Fairfax County,Fairfax County,C_society,Assisting or Promoting Prostitution,VA,0
+Fairfax County,Fairfax County,C_society,Purchasing Prostitution,VA,0
+Fairfax County,Fairfax County,C_society,Weapon Law Violations,VA,789
+Fairfax County,Fairfax County,C_society,Animal Cruelty,VA,91
+Loudoun County,Loudoun County,C_person,Murder and Nonnegligent Manslaughter,VA,4
+Loudoun County,Loudoun County,C_person,Negligent Manslaughter,VA,1
+Loudoun County,Loudoun County,C_person,Justifiable Homicide,VA,0
+Loudoun County,Loudoun County,C_person,Kidnapping/Abduction,VA,64
+Loudoun County,Loudoun County,C_person,Forcible Rape,VA,68
+Loudoun County,Loudoun County,C_person,Forcible Sodomy,VA,27
+Loudoun County,Loudoun County,C_person,Sexual Assault With An Object,VA,58
+Loudoun County,Loudoun County,C_person,Forcible Fondling,VA,127
+Loudoun County,Loudoun County,C_person,Incest,VA,0
+Loudoun County,Loudoun County,C_person,Statutory Rape,VA,1
+Loudoun County,Loudoun County,C_person,Aggravated Assault,VA,205
+Loudoun County,Loudoun County,C_person,Simple Assault,VA,"2,344"
+Loudoun County,Loudoun County,C_person,Intimidation,VA,363
+Loudoun County,Loudoun County,C_person,"Human Trafficking, Commercial Sex Acts",VA,1
+Loudoun County,Loudoun County,C_person,"Human Trafficking, Involuntary Servitude",VA,0
+Loudoun County,Loudoun County,C_prop,Arson,VA,38
+Loudoun County,Loudoun County,C_prop,Bribery,VA,2
+Loudoun County,Loudoun County,C_prop,Burglary/Breaking & Entering,VA,130
+Loudoun County,Loudoun County,C_prop,Counterfeiting/Forgery,VA,153
+Loudoun County,Loudoun County,C_prop,Destruction/Vandalism of Property,VA,"1,252"
+Loudoun County,Loudoun County,C_prop,Embezzlement,VA,45
+Loudoun County,Loudoun County,C_prop,Extortion/Blackmail,VA,110
+Loudoun County,Loudoun County,C_prop,False Pretenses/Swindle/Confidence Game,VA,749
+Loudoun County,Loudoun County,C_prop,Credit Card/Automatic Teller Fraud,VA,313
+Loudoun County,Loudoun County,C_prop,Impersonation,VA,391
+Loudoun County,Loudoun County,C_prop,Welfare Fraud,VA,2
+Loudoun County,Loudoun County,C_prop,Wire Fraud,VA,88
+Loudoun County,Loudoun County,C_prop,Identity Theft,VA,394
+Loudoun County,Loudoun County,C_prop,Hacking/Computer Invasion,VA,34
+Loudoun County,Loudoun County,C_prop,Robbery,VA,50
+Loudoun County,Loudoun County,C_prop,Pocket-picking,VA,16
+Loudoun County,Loudoun County,C_prop,Purse-snatching,VA,9
+Loudoun County,Loudoun County,C_prop,Shoplifting,VA,786
+Loudoun County,Loudoun County,C_prop,Theft From Building,VA,247
+Loudoun County,Loudoun County,C_prop,Theft From Coin Operated Machine or Device,VA,2
+Loudoun County,Loudoun County,C_prop,Theft From Motor Vehicle,VA,575
+Loudoun County,Loudoun County,C_prop,Theft of Motor Vehicle Parts/Accessories,VA,276
+Loudoun County,Loudoun County,C_prop,All Other Larceny,VA,964
+Loudoun County,Loudoun County,C_prop,Motor Vehicle Theft,VA,214
+Loudoun County,Loudoun County,C_prop,Stolen Property Offenses,VA,12
+Loudoun County,Loudoun County,C_society,Drug/Narcotic Violations,VA,513
+Loudoun County,Loudoun County,C_society,Drug Equipment Violations,VA,101
+Loudoun County,Loudoun County,C_society,Betting/Wagering,VA,0
+Loudoun County,Loudoun County,C_society,Operating/Promoting/Assisting Gambling,VA,0
+Loudoun County,Loudoun County,C_society,Gambling Equipment Violations,VA,0
+Loudoun County,Loudoun County,C_society,Pornography/Obscene Material,VA,77
+Loudoun County,Loudoun County,C_society,Prostitution,VA,1
+Loudoun County,Loudoun County,C_society,Assisting or Promoting Prostitution,VA,0
+Loudoun County,Loudoun County,C_society,Purchasing Prostitution,VA,3
+Loudoun County,Loudoun County,C_society,Weapon Law Violations,VA,156
+Loudoun County,Loudoun County,C_society,Animal Cruelty,VA,38
+Prince William County,Prince William County,C_person,Murder and Nonnegligent Manslaughter,VA,10
+Prince William County,Prince William County,C_person,Negligent Manslaughter,VA,4
+Prince William County,Prince William County,C_person,Justifiable Homicide,VA,0
+Prince William County,Prince William County,C_person,Kidnapping/Abduction,VA,94
+Prince William County,Prince William County,C_person,Forcible Rape,VA,78
+Prince William County,Prince William County,C_person,Forcible Sodomy,VA,27
+Prince William County,Prince William County,C_person,Sexual Assault With An Object,VA,21
+Prince William County,Prince William County,C_person,Forcible Fondling,VA,169
+Prince William County,Prince William County,C_person,Incest,VA,1
+Prince William County,Prince William County,C_person,Statutory Rape,VA,23
+Prince William County,Prince William County,C_person,Aggravated Assault,VA,747
+Prince William County,Prince William County,C_person,Simple Assault,VA,"3,225"
+Prince William County,Prince William County,C_person,Intimidation,VA,274
+Prince William County,Prince William County,C_person,"Human Trafficking, Commercial Sex Acts",VA,0
+Prince William County,Prince William County,C_person,"Human Trafficking, Involuntary Servitude",VA,0
+Prince William County,Prince William County,C_prop,Arson,VA,32
+Prince William County,Prince William County,C_prop,Bribery,VA,2
+Prince William County,Prince William County,C_prop,Burglary/Breaking & Entering,VA,431
+Prince William County,Prince William County,C_prop,Counterfeiting/Forgery,VA,110
+Prince William County,Prince William County,C_prop,Destruction/Vandalism of Property,VA,"1,457"
+Prince William County,Prince William County,C_prop,Embezzlement,VA,101
+Prince William County,Prince William County,C_prop,Extortion/Blackmail,VA,74
+Prince William County,Prince William County,C_prop,False Pretenses/Swindle/Confidence Game,VA,"1,038"
+Prince William County,Prince William County,C_prop,Credit Card/Automatic Teller Fraud,VA,692
+Prince William County,Prince William County,C_prop,Impersonation,VA,89
+Prince William County,Prince William County,C_prop,Welfare Fraud,VA,7
+Prince William County,Prince William County,C_prop,Wire Fraud,VA,315
+Prince William County,Prince William County,C_prop,Identity Theft,VA,491
+Prince William County,Prince William County,C_prop,Hacking/Computer Invasion,VA,51
+Prince William County,Prince William County,C_prop,Robbery,VA,225
+Prince William County,Prince William County,C_prop,Pocket-picking,VA,16
+Prince William County,Prince William County,C_prop,Purse-snatching,VA,4
+Prince William County,Prince William County,C_prop,Shoplifting,VA,"1,971"
+Prince William County,Prince William County,C_prop,Theft From Building,VA,576
+Prince William County,Prince William County,C_prop,Theft From Coin Operated Machine or Device,VA,19
+Prince William County,Prince William County,C_prop,Theft From Motor Vehicle,VA,"1,600"
+Prince William County,Prince William County,C_prop,Theft of Motor Vehicle Parts/Accessories,VA,628
+Prince William County,Prince William County,C_prop,All Other Larceny,VA,789
+Prince William County,Prince William County,C_prop,Motor Vehicle Theft,VA,604
+Prince William County,Prince William County,C_prop,Stolen Property Offenses,VA,74
+Prince William County,Prince William County,C_society,Drug/Narcotic Violations,VA,"1,103"
+Prince William County,Prince William County,C_society,Drug Equipment Violations,VA,205
+Prince William County,Prince William County,C_society,Betting/Wagering,VA,0
+Prince William County,Prince William County,C_society,Operating/Promoting/Assisting Gambling,VA,1
+Prince William County,Prince William County,C_society,Gambling Equipment Violations,VA,0
+Prince William County,Prince William County,C_society,Pornography/Obscene Material,VA,83
+Prince William County,Prince William County,C_society,Prostitution,VA,3
+Prince William County,Prince William County,C_society,Assisting or Promoting Prostitution,VA,3
+Prince William County,Prince William County,C_society,Purchasing Prostitution,VA,1
+Prince William County,Prince William County,C_society,Weapon Law Violations,VA,331
+Prince William County,Prince William County,C_society,Animal Cruelty,VA,108
+ASHTON,Montgomery County,Other,All Other Larceny,MD,5
+ASHTON,Montgomery County,C_person,False Pretenses/Swindle/Confidence Game,MD,1
+ASHTON,Montgomery County,C_person,Forcible Fondling,MD,1
+ASHTON,Montgomery County,C_person,Identity Theft,MD,2
+ASHTON,Montgomery County,C_prop,All other Larceny,MD,2
+ASHTON,Montgomery County,C_prop,Credit Card/Automatic Teller Machine Fraud,MD,2
+ASHTON,Montgomery County,C_prop,Destruction/Vandalism of Property,MD,1
+ASHTON,Montgomery County,C_prop,Motor Vehicle Theft,MD,3
+ASHTON,Montgomery County,C_prop,Shoplifting,MD,1
+ASHTON,Montgomery County,C_prop,Theft from Building,MD,1
+ASHTON,Montgomery County,C_prop,Theft From Motor Vehicle,MD,7
+BARNESVILLE,Montgomery County,C_prop,Theft From Building,MD,1
+BEALLSVILLE,Montgomery County,C_person,Simple Assault,MD,1
+BEALLSVILLE,Montgomery County,C_prop,False Pretenses/Swindle/Confidence Game,MD,1
+BEALLSVILLE,Montgomery County,C_prop,All Other Larceny,MD,1
+BELTSVILLE,Montgomery County,C_prop,Destruction/Vandalism of Property,MD,2
+BETHESDA,Montgomery County,C_person,Aggravated Assault,MD,1
+BETHESDA,Montgomery County,C_person,Burglary/Breaking & Entering,MD,49
+BETHESDA,Montgomery County,C_prop,All Other Larceny,MD,122
+BETHESDA,Montgomery County,C_prop,Extortion/Blackmail,MD,7
+BETHESDA,Montgomery County,C_prop,Counterfeiting/Forgery,MD,45
+BETHESDA,Montgomery County,C_prop,Credit Card ATM Fraud,MD,51
+BETHESDA,Montgomery County,C_prop,Destruction/Vandalism of Property,MD,125
+BETHESDA,Montgomery County,C_prop,Embezzlement,MD,6
+BETHESDA,Montgomery County,C_society,Drug/Narcotic Violations,MD,1
+BETHESDA,Montgomery County,C_society,Drug Equipment Violations,MD,7
+BETHESDA,Montgomery County,C_prop,False Pretenses/Swindle/Confidence Game,MD,21
+BETHESDA,Montgomery County,C_society,family offenses non violent,MD,1
+BETHESDA,Montgomery County,C_person,fondling,MD,1
+BETHESDA,Montgomery County,C_person,Forcible Fondling,MD,3
+BETHESDA,Montgomery County,C_person,Forcible rape,MD,3
+BETHESDA,Montgomery County,C_person,Forcible Sodomy,MD,3
+BETHESDA,Montgomery County,C_prop,Identity Theft,MD,47
+BETHESDA,Montgomery County,C_prop,Impersonation,MD,2
+BETHESDA,Montgomery County,C_prop,Motor Vehicle Theft,MD,92
+BETHESDA,Montgomery County,C_prop,Pocket-picking,MD,5
+BETHESDA,Montgomery County,C_person,Simple Assault,MD,50
+BETHESDA,Montgomery County,C_prop,Theft from Building,MD,93
+BETHESDA,Montgomery County,C_society,Weapon Law Violations,MD,4
+BOYDS,Montgomery County,C_prop,Burglary/Breaking & Entering,MD,2
+BOYDS,Montgomery County,C_prop,Credit Card ATM Fraud,MD,4
+BOYDS,Montgomery County,C_prop,False Pretenses/Swindle/Confidence Game,MD,2
+BOYDS,Montgomery County,C_prop,Destruction/Vandalism of Property,MD,10
+BOYDS,Montgomery County,C_prop,Motor Vehicle Theft,MD,9
+BOYDS,Montgomery County,C_prop,Theft From Motor Vehicle,MD,7
+BOYDS,Montgomery County,C_person,Simple Assault,MD,4
+BRINKLOW,Montgomery County,C_prop,Burglary/Breaking & Entering,MD,2
+BRINKLOW,Montgomery County,C_prop,All Other Larceny,MD,1
+BROOKEVILLE,Montgomery County,C_prop,All Other Larceny,MD,5
+BROOKEVILLE,Montgomery County,C_prop,Burglary/Breaking & Entering,MD,3
+BROOKEVILLE,Montgomery County,C_prop,Credit Card ATM Fraud,MD,4
+BROOKEVILLE,Montgomery County,C_prop,Destruction/Vandalism of Property,MD,5
+BROOKEVILLE,Montgomery County,C_prop,False Pretenses/Swindle/Confidence Game,MD,2
+BROOKEVILLE,Montgomery County,C_prop,Identity Theft,MD,9
+BROOKEVILLE,Montgomery County,C_prop,Theft from Building,MD,3
+BROOKEVILLE,Montgomery County,C_prop,Theft From Motor Vehicle,MD,8
+BROOKEVILLE,Montgomery County,C_person,Simple Assault,MD,1
+BROOKEVILLE,Montgomery County,C_prop,Motor Vehicle Theft,MD,3
+BURTONSVILLE,Montgomery County,C_person,Aggravated Assault,MD,6
+BURTONSVILLE,Montgomery County,C_prop,All Other Larceny,MD,8
+BURTONSVILLE,Montgomery County,C_prop,Burglary/Breaking & Entering,MD,14
+BURTONSVILLE,Montgomery County,C_prop,Credit Card ATM Fraud,MD,5
+BURTONSVILLE,Montgomery County,C_prop,False Pretenses/Swindle/Confidence Game,MD,4
+BURTONSVILLE,Montgomery County,C_prop,Identity Theft,MD,4
+BURTONSVILLE,Montgomery County,C_prop,Motor Vehicle Theft,MD,22
+BURTONSVILLE,Montgomery County,C_prop,Theft From Motor Vehicle,MD,33
+BURTONSVILLE,Montgomery County,C_prop,Theft of Motor Vehicle Parts/Accessories,MD,28
+BURTONSVILLE,Montgomery County,C_person,Forcible rape,MD,2
+BURTONSVILLE,Montgomery County,C_person,Murder and Nonnegligent Manslaughter,MD,1
+BURTONSVILLE,Montgomery County,C_person,Simple Assault,MD,8
+CABIN JOHN,Montgomery County,C_prop,All Other Larceny,MD,3
+CABIN JOHN,Montgomery County,C_prop,Counterfeiting/Forgery,MD,1
+CABIN JOHN,Montgomery County,C_prop,Credit Card ATM Fraud,MD,1
+CABIN JOHN,Montgomery County,C_prop,Destruction/Vandalism of Property,MD,2
+CABIN JOHN,Montgomery County,C_prop,Identity Theft,MD,1
+CABIN JOHN,Montgomery County,C_prop,Motor Vehicle Theft,MD,1
+CABIN JOHN,Montgomery County,C_prop,Theft from Building,MD,1
+CABIN JOHN,Montgomery County,C_prop,Theft From Motor Vehicle,MD,3
+CABIN JOHN,Montgomery County,C_person,Forcible rape,MD,1
+CABIN JOHN,Montgomery County,C_person,Forcible Sodomy,MD,1
+CHEVY CHASE,Montgomery County,C_prop,All Other Larceny,MD,36
+CHEVY CHASE,Montgomery County,C_prop,Burglary/Breaking & Entering,MD,12
+CHEVY CHASE,Montgomery County,C_prop,Counterfeiting/Forgery,MD,23
+CHEVY CHASE,Montgomery County,C_prop,Credit Card ATM Fraud,MD,20
+CHEVY CHASE,Montgomery County,C_prop,Destruction/Vandalism of Property,MD,31
+CHEVY CHASE,Montgomery County,C_prop,Embezzlement,MD,1
+CHEVY CHASE,Montgomery County,C_prop,Extortion/Blackmail,MD,1
+CHEVY CHASE,Montgomery County,C_prop,False Pretenses/Swindle/Confidence Game,MD,6
+CHEVY CHASE,Montgomery County,C_prop,Identity Theft,MD,19
+CHEVY CHASE,Montgomery County,C_prop,Motor Vehicle Theft,MD,29
+CHEVY CHASE,Montgomery County,C_prop,Purse-snatching,MD,6
+CHEVY CHASE,Montgomery County,C_prop,Robbery,MD,1
+CHEVY CHASE,Montgomery County,C_prop,Theft from Building,MD,38
+CHEVY CHASE,Montgomery County,C_prop,Theft From Motor Vehicle,MD,130
+CHEVY CHASE,Montgomery County,C_prop,Theft of Motor Vehicle Parts/Accessories,MD,60
+CHEVY CHASE,Montgomery County,C_person,Forcible Fondling,MD,1
+CHEVY CHASE,Montgomery County,C_person,Forcible rape,MD,1
+CHEVY CHASE,Montgomery County,C_person,Sexual Assault With An Object,MD,2
+CLARKSBURG,Montgomery County,C_prop,All Other Larceny,MD,14
+CLARKSBURG,Montgomery County,C_prop,Burglary/Breaking & Entering,MD,7
+CLARKSBURG,Montgomery County,C_prop,Credit Card ATM Fraud,MD,6
+CLARKSBURG,Montgomery County,C_prop,Destruction/Vandalism of Property,MD,17
+CLARKSBURG,Montgomery County,C_prop,Embezzlement,MD,1
+CLARKSBURG,Montgomery County,C_prop,False Pretenses/Swindle/Confidence Game,MD,13
+CLARKSBURG,Montgomery County,C_prop,Identity Theft,MD,13
+CLARKSBURG,Montgomery County,C_prop,Motor Vehicle Theft,MD,7
+CLARKSBURG,Montgomery County,C_prop,Shoplifting,MD,3
+CLARKSBURG,Montgomery County,C_prop,Theft From Motor Vehicle,MD,27
+CLARKSBURG,Montgomery County,C_prop,Theft of Motor Vehicle Parts/Accessories,MD,9
+CLARKSBURG,Montgomery County,C_person,fondling,MD,1
+CLARKSBURG,Montgomery County,C_person,Forcible rape,MD,1
+CLARKSBURG,Montgomery County,C_person,Forcible Sodomy,MD,1
+CLARKSBURG,Montgomery County,C_person,Simple Assault,MD,11
+DAMASCUS,Montgomery County,C_person,Aggravated Assault,MD,3
+DAMASCUS,Montgomery County,C_prop,All Other Larceny,MD,8
+DAMASCUS,Montgomery County,C_prop,Burglary/Breaking & Entering,MD,1
+DAMASCUS,Montgomery County,C_prop,Credit Card ATM Fraud,MD,1
+DAMASCUS,Montgomery County,C_prop,Destruction/Vandalism of Property,MD,22
+DAMASCUS,Montgomery County,C_prop,False Pretenses/Swindle/Confidence Game,MD,2
+DAMASCUS,Montgomery County,C_prop,Identity Theft,MD,1
+DAMASCUS,Montgomery County,C_prop,Motor Vehicle Theft,MD,16
+DAMASCUS,Montgomery County,C_prop,Shoplifting,MD,3
+DAMASCUS,Montgomery County,C_prop,Theft from Building,MD,3
+DAMASCUS,Montgomery County,C_prop,Theft From Motor Vehicle,MD,44
+DAMASCUS,Montgomery County,C_prop,Theft of Motor Vehicle Parts/Accessories,MD,3
+DAMASCUS,Montgomery County,C_person,fondling,MD,1
+DAMASCUS,Montgomery County,C_person,Intimidation,MD,1
+DAMASCUS,Montgomery County,C_person,Simple Assault,MD,7
+DERWOOD,Montgomery County,C_person,Aggravated Assault,MD,1
+DERWOOD,Montgomery County,C_prop,All Other Larceny,MD,18
+DERWOOD,Montgomery County,C_prop,Burglary/Breaking & Entering,MD,16
+DERWOOD,Montgomery County,C_prop,Credit Card ATM Fraud,MD,5
+DERWOOD,Montgomery County,C_prop,Destruction/Vandalism of Property,MD,18
+DERWOOD,Montgomery County,C_prop,Counterfeiting/Forgery,MD,7
+DERWOOD,Montgomery County,C_person,fondling,MD,1
+DERWOOD,Montgomery County,C_person,forcible rape,MD,1
+DERWOOD,Montgomery County,C_person,Forcible Fondling,MD,1
+DERWOOD,Montgomery County,C_prop,Identity Theft,MD,10
+DERWOOD,Montgomery County,C_prop,Motor Vehicle Theft,MD,16
+DERWOOD,Montgomery County,C_prop,Theft from Building,MD,13
+DERWOOD,Montgomery County,C_prop,Theft From Motor Vehicle,MD,29
+DERWOOD,Montgomery County,C_prop,Theft of Motor Vehicle Parts/Accessories,MD,15
+DERWOOD,Montgomery County,C_person,Simple Assault,MD,2
+GAITHERSBURG,Montgomery County,C_prop,All Other Larceny,MD,136
+GAITHERSBURG,Montgomery County,C_prop,Burglary/Breaking & Entering,MD,51
+GAITHERSBURG,Montgomery County,C_prop,Counterfeiting/Forgery,MD,20
+GAITHERSBURG,Montgomery County,C_prop,Credit Card ATM Fraud,MD,50
+GAITHERSBURG,Montgomery County,C_prop,Destruction/Vandalism of Property,MD,232
+GAITHERSBURG,Montgomery County,C_prop,Embezzlement,MD,1
+GAITHERSBURG,Montgomery County,C_prop,Extortion/Blackmail,MD,2
+GAITHERSBURG,Montgomery County,C_prop,False Pretenses/Swindle/Confidence Game,MD,56
+GAITHERSBURG,Montgomery County,C_prop,Identity Theft,MD,75
+GAITHERSBURG,Montgomery County,C_prop,Motor Vehicle Theft,MD,124
+GAITHERSBURG,Montgomery County,C_prop,Robbery,MD,13
+GAITHERSBURG,Montgomery County,C_person,Aggravated Assault,MD,18
+GAITHERSBURG,Montgomery County,C_prop,Shoplifting,MD,141
+GAITHERSBURG,Montgomery County,C_prop,Theft from Building,MD,123
+GAITHERSBURG,Montgomery County,C_prop,Theft From Motor Vehicle,MD,339
+GAITHERSBURG,Montgomery County,C_prop,Theft of Motor Vehicle Parts/Accessories,MD,194
+GAITHERSBURG,Montgomery County,C_person,fondling,MD,9
+GAITHERSBURG,Montgomery County,C_person,Forcible Fondling,MD,8
+GAITHERSBURG,Montgomery County,C_person,Forcible Sodomy,MD,6
+GAITHERSBURG,Montgomery County,C_person,Intimidation,MD,4
+GAITHERSBURG,Montgomery County,C_person,Sexual Assault With An Object,MD,4
+GAITHERSBURG,Montgomery County,C_person,Simple Assault,MD,119
+GAITHERSBURG,Montgomery County,C_person,Statutory Rape,MD,1
+GAITHERSBURG,Montgomery County,C_person,forcible rape,MD,14
+GERMANTOWN,Montgomery County,C_person,Aggravated Assault,MD,10
+GERMANTOWN,Montgomery County,C_prop,All Other Larceny,MD,74
+GERMANTOWN,Montgomery County,C_prop,Burglary/Breaking & Entering,MD,35
+GERMANTOWN,Montgomery County,C_prop,Counterfeiting/Forgery,MD,6
+GERMANTOWN,Montgomery County,C_prop,Credit Card ATM Fraud,MD,38
+GERMANTOWN,Montgomery County,C_prop,Destruction/Vandalism of Property,MD,162
+GERMANTOWN,Montgomery County,C_prop,Extortion/Blackmail,MD,2
+GERMANTOWN,Montgomery County,C_prop,False Pretenses/Swindle/Confidence Game,MD,30
+GERMANTOWN,Montgomery County,C_person,fondling,MD,5
+GERMANTOWN,Montgomery County,C_person,Forcible Fondling,MD,2
+GERMANTOWN,Montgomery County,C_person,forcible rape,MD,9
+GERMANTOWN,Montgomery County,C_person,Forcible Sodomy,MD,2
+GERMANTOWN,Montgomery County,C_prop,Identity Theft,MD,30
+GERMANTOWN,Montgomery County,C_person,Intimidation,MD,1
+GERMANTOWN,Montgomery County,C_prop,Motor Vehicle Theft,MD,67
+GERMANTOWN,Montgomery County,C_prop,Robbery,MD,7
+GERMANTOWN,Montgomery County,C_person,Sexual Assault With An Object,MD,4
+GERMANTOWN,Montgomery County,C_prop,Shoplifting,MD,81
+GERMANTOWN,Montgomery County,C_prop,Theft from Building,MD,67
+GERMANTOWN,Montgomery County,C_person,Simple Assault,MD,63
+GERMANTOWN,Montgomery County,C_prop,Theft From Motor Vehicle,MD,379
+GERMANTOWN,Montgomery County,C_prop,Theft of Motor Vehicle Parts/Accessories,MD,85
+MONTGOMERY VILLAGE,Montgomery County,C_prop,All Other Larceny,MD,26
+MONTGOMERY VILLAGE,Montgomery County,C_prop,Burglary/Breaking & Entering,MD,11
+MONTGOMERY VILLAGE,Montgomery County,C_prop,Counterfeiting/Forgery,MD,3
+MONTGOMERY VILLAGE,Montgomery County,C_prop,Credit Card ATM Fraud,MD,8
+MONTGOMERY VILLAGE,Montgomery County,C_prop,Destruction/Vandalism of Property,MD,64
+MONTGOMERY VILLAGE,Montgomery County,C_prop,False Pretenses/Swindle/Confidence Game,MD,8
+MONTGOMERY VILLAGE,Montgomery County,C_prop,Identity Theft,MD,17
+MONTGOMERY VILLAGE,Montgomery County,C_prop,Motor Vehicle Theft,MD,29
+MONTGOMERY VILLAGE,Montgomery County,C_prop,Robbery,MD,3
+MONTGOMERY VILLAGE,Montgomery County,C_prop,Shoplifting,MD,3
+MONTGOMERY VILLAGE,Montgomery County,C_prop,Theft from Building,MD,18
+MONTGOMERY VILLAGE,Montgomery County,C_prop,Theft From Motor Vehicle,MD,101
+MONTGOMERY VILLAGE,Montgomery County,C_prop,Theft of Motor Vehicle Parts/Accessories,MD,39
+MONTGOMERY VILLAGE,Montgomery County,C_person,Aggravated Assault,MD,6
+MONTGOMERY VILLAGE,Montgomery County,C_person,fondling,MD,1
+MONTGOMERY VILLAGE,Montgomery County,C_person,Forcible Fondling,MD,0
+MONTGOMERY VILLAGE,Montgomery County,C_person,forcible rape,MD,4
+MONTGOMERY VILLAGE,Montgomery County,C_person,Simple Assault,MD,6
+MONTGOMERY VILLAGE,Montgomery County,C_person,Statutory Rape,MD,1
+ROCKVIILE,Montgomery County,C_person,Aggravated Assault,MD,64
+ROCKVILLE,Montgomery County,C_prop,All Other Larceny,MD,244
+ROCKVILLE,Montgomery County,C_prop,Burglary/Breaking & Entering,MD,121
+ROCKVILLE,Montgomery County,C_prop,Counterfeiting/Forgery,MD,30
+ROCKVILLE,Montgomery County,C_prop,Credit Card ATM Fraud,MD,85
+ROCKVILLE,Montgomery County,C_prop,Destruction/Vandalism of Property,MD,289
+ROCKVILLE,Montgomery County,C_prop,Embezzlement,MD,7
+ROCKVILLE,Montgomery County,C_person,fondling,MD,23
+ROCKVILLE,Montgomery County,C_person,Forcible Fondling,MD,4
+ROCKVILLE,Montgomery County,C_person,forcible rape,MD,21
+ROCKVILLE,Montgomery County,C_person,Forcible Sodomy,MD,12
+ROCKVILLE,Montgomery County,C_person,human trafficking,MD,1
+ROCKVILLE,Montgomery County,C_prop,Identity Theft,MD,96
+ROCKVILLE,Montgomery County,C_person,Intimidation,MD,1
+ROCKVILLE,Montgomery County,C_prop,Motor Vehicle Theft,MD,135
+ROCKVILLE,Montgomery County,C_prop,Robbery,MD,24
+ROCKVILLE,Montgomery County,C_person,Sexual Assault With An Object,MD,4
+ROCKVILLE,Montgomery County,C_prop,Shoplifting,MD,194
+ROCKVILLE,Montgomery County,C_person,Simple Assault,MD,284
+ROCKVILLE,Montgomery County,C_prop,Theft from Building,MD,198
+ROCKVILLE,Montgomery County,C_prop,Theft From Motor Vehicle,MD,410
+SILVER SPRING,Montgomery County,C_person,Aggravated Assault,MD,92
+SILVER SPRING,Montgomery County,C_prop,All Other Larceny,MD,339
+SILVER SPRING,Montgomery County,C_prop,Burglary/Breaking & Entering,MD,213
+SILVER SPRING,Montgomery County,C_prop,Counterfeiting/Forgery,MD,58
+SILVER SPRING,Montgomery County,C_prop,Credit Card ATM Fraud,MD,124
+SILVER SPRING,Montgomery County,C_prop,Destruction/Vandalism of Property,MD,650
+SILVER SPRING,Montgomery County,C_prop,Embezzlement,MD,6
+SILVER SPRING,Montgomery County,C_person,fondling,MD,19
+SILVER SPRING,Montgomery County,C_person,Forcible Fondling,MD,13
+SILVER SPRING,Montgomery County,C_person,forcible rape,MD,36
+SILVER SPRING,Montgomery County,C_person,Forcible Sodomy,MD,17
+SILVER SPRING,Montgomery County,C_person,human trafficking,MD,2
+SILVER SPRING,Montgomery County,C_prop,Identity Theft,MD,132
+SILVER SPRING,Montgomery County,C_person,Intimidation,MD,4
+SILVER SPRING,Montgomery County,C_prop,Motor Vehicle Theft,MD,385
+SILVER SPRING,Montgomery County,C_person,Robbery,MD,71
+SILVER SPRING,Montgomery County,C_person,Sexual Assault With An Object,MD,13
+SILVER SPRING,Montgomery County,C_prop,Shoplifting,MD,248
+SILVER SPRING,Montgomery County,C_person,Simple Assault,MD,352
+SILVER SPRING,Montgomery County,C_prop,Theft from Building,MD,296
+SILVER SPRING,Montgomery County,C_prop,Theft From Motor Vehicle,MD,596
+Prince George County,Prince George Ct,C_person,Simple Assault,MD,691
+Prince George County,Prince George Ct,C_person,assault shooting,MD,166
+Prince George County,Prince George Ct,C_person,assault weapon,MD,171
+Prince George County,Prince George Ct,C_person,homicide,MD,74
+Prince George County,Prince George Ct,C_person,sex offense,MD,134
+Prince George County,Prince George Ct,C_prop,Motor Vehicle Theft,MD,2504
+Prince George County,Prince George Ct,C_prop,Burglary/Breaking & Entering,MD,796
+Prince George County,Prince George Ct,C_prop,Robbery,MD,605
+Prince George County,Prince George Ct,C_prop,Theft From Motor Vehicle,MD,3923
+Prince George County,Prince George Ct,C_prop,Theft from Building,MD,2141
+Ward 1,DC,C_person,assault weapon,DC,162
+Ward 1,DC,C_person,HOMICIDE,DC,13
+Ward 1,DC,C_person,ROBBERY,DC,293
+Ward 1,DC,C_person,SEX ABUSE,DC,22
+Ward 1,DC,C_prop,Arson,DC,0
+Ward 1,DC,C_prop,BURGLARY,DC,163
+Ward 1,DC,C_prop,MOTOR VEHICLE THEFT,DC,502
+Ward 1,DC,C_prop,Theft From Motor Vehicle,DC,1340
+Ward 1,DC,C_prop,Theft from Building,DC,1705
+Ward 2,DC,C_person,assault weapon,DC,118
+Ward 2,DC,C_person,HOMICIDE,DC,7
+Ward 2,DC,C_person,ROBBERY,DC,201
+Ward 2,DC,C_person,SEX ABUSE,DC,20
+Ward 2,DC,C_prop,Arson,DC,1
+Ward 2,DC,C_prop,BURGLARY,DC,172
+Ward 2,DC,C_prop,MOTOR VEHICLE THEFT,DC,474
+Ward 2,DC,C_prop,Theft From Motor Vehicle,DC,1841
+Ward 2,DC,C_prop,Theft from Building,DC,2533
+Ward 3,DC,C_person,assault weapon,DC,30
+Ward 3,DC,C_person,HOMICIDE,DC,2
+Ward 3,DC,C_person,ROBBERY,DC,39
+Ward 3,DC,C_person,SEX ABUSE,DC,8
+Ward 3,DC,C_prop,Arson,DC,1
+Ward 3,DC,C_prop,BURGLARY,DC,59
+Ward 3,DC,C_prop,MOTOR VEHICLE THEFT,DC,89
+Ward 3,DC,C_prop,Theft From Motor Vehicle,DC,500
+Ward 3,DC,C_prop,Theft from Building,DC,717
+Ward 4,DC,C_person,assault weapon,DC,97
+Ward 4,DC,C_person,HOMICIDE,DC,20
+Ward 4,DC,C_person,ROBBERY,DC,151
+Ward 4,DC,C_person,SEX ABUSE,DC,12
+Ward 4,DC,C_prop,Arson,,0
+Ward 4,DC,C_prop,BURGLARY,,94
+Ward 4,DC,C_prop,MOTOR VEHICLE THEFT,,320
+Ward 4,DC,C_prop,Theft From Motor Vehicle,,996
+Ward 4,DC,C_prop,Theft from Building,,888
+Ward 5,DC,C_person,assault weapon,DC,284
+Ward 5,DC,C_person,HOMICIDE,,25
+Ward 5,DC,C_person,ROBBERY,,330
+Ward 5,DC,C_person,SEX ABUSE,,29
+Ward 5,DC,C_prop,Arson,,0
+Ward 5,DC,C_prop,BURGLARY,,247
+Ward 5,DC,C_prop,MOTOR VEHICLE THEFT,,497
+Ward 5,DC,C_prop,Theft From Motor Vehicle,,1516
+Ward 5,DC,C_prop,Theft from Building,,1499
+Ward 6,DC,C_person,assault weapon,DC,140
+Ward 6,DC,C_person,HOMICIDE,,11
+Ward 6,DC,C_person,ROBBERY,,241
+Ward 6,DC,C_person,SEX ABUSE,,27
+Ward 6,DC,C_prop,Arson,,0
+Ward 6,DC,C_prop,BURGLARY,,157
+Ward 6,DC,C_prop,MOTOR VEHICLE THEFT,,544
+Ward 6,DC,C_prop,Theft From Motor Vehicle,,1032
+Ward 6,DC,C_prop,Theft from Building,,1663
+Ward 7,DC,C_person,assault weapon,DC,378
+Ward 7,DC,C_person,HOMICIDE,,64
+Ward 7,DC,C_person,ROBBERY,,447
+Ward 7,DC,C_person,SEX ABUSE,,31
+Ward 7,DC,C_prop,Arson,,1
+Ward 7,DC,C_prop,BURGLARY,,137
+Ward 7,DC,C_prop,MOTOR VEHICLE THEFT,,627
+Ward 7,DC,C_prop,Theft From Motor Vehicle,,866
+Ward 7,DC,C_prop,Theft from Building,,1044
+Ward 8,DC,C_person,assault weapon,DC,455
+Ward 8,DC,C_person,HOMICIDE,,83
+Ward 8,DC,C_person,ROBBERY,,343
+Ward 8,DC,C_person,SEX ABUSE,,31
+Ward 8,DC,C_prop,Arson,,1
+Ward 8,DC,C_prop,BURGLARY,,146
+Ward 8,DC,C_prop,MOTOR VEHICLE THEFT,,434
+Ward 8,DC,C_prop,Theft From Motor Vehicle,,592
+Ward 8,DC,C_prop,Theft from Building,,852
